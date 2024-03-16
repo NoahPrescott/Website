@@ -1,5 +1,5 @@
 createLandscape({
-  palleteImage:'img/pallete2.png'
+  palleteImage:'img/pallete.png'
 })
 
 function createLandscape(params){
